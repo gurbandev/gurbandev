@@ -1,5 +1,5 @@
 <div align="center">
-    <span style='font-size:5rem;'><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">Açylow Gurbanmuhammet<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></span>
+    <span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><span style='font-size:2rem;'>Açylow Gurbanmuhammet</span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></span>
 </div>
 
   <p align="center">
