@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 ![Linkedin](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin)
 ![vk](https://img.shields.io/badge/-vkontakte-000000?style=for-the-badge&logo=vk)
 ![telegram](https://img.shields.io/badge/-telegram-000000?style=for-the-badge&logo=telegram)
-![github](https://img.shields.io/badge/-github-000000?style=for-the-badge&logo=github)
+<a href='https://github.com/gurbandev'>![github](https://img.shields.io/badge/-github-000000?style=for-the-badge&logo=github)</a>
 
