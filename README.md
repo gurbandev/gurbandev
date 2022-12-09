@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurbandev)](https://github.com/gurbandev/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gurbandev)](https://github.com/gurbandev/github-readme-stats)
 <!--
 **gurbandev/gurbandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
