@@ -61,6 +61,7 @@
 ![vk](https://img.shields.io/badge/-vkontakte-000000?style=for-the-badge&logo=vk)
 ![telegram](https://img.shields.io/badge/-telegram-000000?style=for-the-badge&logo=telegram)
 <a href='https://github.com/gurbandev'>![github](https://img.shields.io/badge/-github-000000?style=for-the-badge&logo=github)</a>
-<div align='center'>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurbandev&layout=compact)](https://github.com/gurbandev/github-readme-stats)
-</div>
+
