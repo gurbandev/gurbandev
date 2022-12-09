@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3)
 ![js](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=Javascript)
 ![bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=Bootstrap) 
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=for-the-badge&logo=Laravel) 
 
 
 ### Follow Me
