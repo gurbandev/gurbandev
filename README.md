@@ -39,7 +39,7 @@
     <a href="https://github.com/gurbandev?tab=followers">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/gurbandev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     <a href="https://github.com/gurbandev/Simple-View-Counter">
-      <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/gurbandev-profile-views"/></a>
+      <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
   </p>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurbandev&layout=compact)](https://github.com/gurbandev/github-readme-stats)
