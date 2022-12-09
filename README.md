@@ -1,6 +1,8 @@
-<p align="center">
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><a href="https://github.com/gurbandev"><p align='center'>Açylow Gurbanmuhammet</p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  </p>
+<div align='center'>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    <p>Açylow Gurbanmuhammet</p>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</div>
   
   <p align="center">
     <!-- Typing SVG by gurbandev - https://github.com/gurbandev/readme-typing-svg -->
