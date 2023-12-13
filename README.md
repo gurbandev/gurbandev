@@ -56,7 +56,7 @@
 
 ### Follow Me
 
-![Instagram]([https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram](https://www.instagram.com/acylow.g_dev/))
+<a href="https://www.instagram.com/acylow.g_dev/" > ![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram) </a>
 ![Linkedin](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin)
 ![vk](https://img.shields.io/badge/-vkontakte-000000?style=for-the-badge&logo=vk)
 ![telegram](https://img.shields.io/badge/-telegram-000000?style=for-the-badge&logo=telegram)
