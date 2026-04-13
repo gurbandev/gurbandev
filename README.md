@@ -71,8 +71,8 @@
   <a href="https://www.linkedin.com/in/gurbanmuhammet-acylow-4a9815262/">
     <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://twitter.com/gurbandev">
-    <img src="https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter">
+  <a href="https://x.com/achylov_dev">
+    <img src="https://img.shields.io/badge/-X-000?style=for-the-badge&logo=x">
   </a>
   <a href="https://dev.to/gurbandev">
     <img src="https://img.shields.io/badge/-Dev.to-000?style=for-the-badge&logo=dev.to">
