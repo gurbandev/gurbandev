@@ -54,7 +54,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://gitlab-readme-stats.vercel.app/api?username=YOUR_GITLAB_USERNAME&show_icons=true&theme=dark" />
+  <img src="https://gitlab-readme-stats.vercel.app/api?username=gurbandev&show_icons=true&theme=dark" />
 </p>
 
 ---
