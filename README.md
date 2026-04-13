@@ -54,8 +54,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurbandev&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurbandev&layout=compact&theme=tokyonight" />
+  <img src="https://gitlab-readme-stats.vercel.app/api?username=YOUR_GITLAB_USERNAME&show_icons=true&theme=dark" />
 </p>
 
 ---
@@ -65,6 +64,9 @@
 <p align="center">
   <a href="https://github.com/gurbandev">
     <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/gurbanmuhammet-acylow-4a9815262/">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://twitter.com/gurbandev">
     <img src="https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter">
