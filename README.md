@@ -51,12 +51,15 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitLab Activity
+
+> ⚠️ Most of my active development is on GitLab.
 
 <p align="center">
-  <img src="https://gitlab-readme-stats.vercel.app/api?username=gurbandev&show_icons=true&theme=dark" />
+  <a href="https://gitlab.com/YOUR_GITLAB_USERNAME">
+    <img src="https://img.shields.io/badge/View%20My%20GitLab%20Profile-FCA121?style=for-the-badge&logo=gitlab&logoColor=black">
+  </a>
 </p>
-
 ---
 
 ### 🌍 Connect With Me
