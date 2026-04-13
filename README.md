@@ -56,7 +56,7 @@
 > ⚠️ Most of my active development is on GitLab.
 
 <p align="center">
-  <a href="https://gitlab.com/YOUR_GITLAB_USERNAME">
+  <a href="https://gitlab.com/gurbandev">
     <img src="https://img.shields.io/badge/View%20My%20GitLab%20Profile-FCA121?style=for-the-badge&logo=gitlab&logoColor=black">
   </a>
 </p>
